@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "metricAlerts_alert_website_down_name": {
+            "value": null
+        },
+        "storageAccounts_stwebmonitor2026_name": {
+            "value": null
+        },
+        "actionGroups_ag_website_monitoring_name": {
+            "value": null
+        },
+        "components_appi_website_monitoring_name": {
+            "value": null
+        },
+        "dashboards_Dashboard_11_11_2026_22_45_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "webtests_website_availability_test_appi_website_monitoring_name": {
+            "value": null
+        },
+        "metricalerts_website_availability_test_appi_website_monitoring_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_561fe096_8c3a_4e1f_a9f8_eaf44efdce4e_NEU_externalid": {
+            "value": null
+        }
+    }
+}
